@@ -1,0 +1,13 @@
+{
+    "name": {
+      "firstName": "Abhijay",
+      "lastName": "Movva"
+    },
+    "fromWisconsin": false,
+    "numCredits": 14,
+    "major": "Computer Science & Data Science",
+    "interests": [
+        "food",
+         "gym", 
+         "fortnite"]
+  }
